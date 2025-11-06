@@ -1,8 +1,15 @@
-# Instal 
+# Instal
+
 ```bash
 npm i
 npm run dev
 ```
 
 # Easter Egg
+
 Cliquer sur le bouton jaune en haut a gauche 👀
+
+# Production :
+
+[Lien](https://pokedex.mathistassart.fr/)
+
